@@ -4,8 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
-    <link rel="stylesheet" type="text/css" href="<c:url value="/css/index.css"/> "/>
-    <script type="text/javascript" src="<c:url value="/js/index.js"/> "></script>
+    <link rel="stylesheet" type="text/css" href="<c:url value="../statics/css/index.css"/> "/>
+    <script type="text/javascript" src="<c:url value="../statics/js/index.js"/> "></script>
 </head>
 <body>
         <p id="yes" onclick="sayYes()">hello world!penn</p>
